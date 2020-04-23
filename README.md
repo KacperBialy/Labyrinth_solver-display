@@ -1,10 +1,8 @@
 I present to you the solving of the maze. Where you can specify the end position you want to reach
 
-Controlling by:
+Controlling by left mouse button:
 
-left mouse button
-
-one click - marks the end point
+one click - marks the end point,
 
 second click - resets the final position and starts the program again.
 
